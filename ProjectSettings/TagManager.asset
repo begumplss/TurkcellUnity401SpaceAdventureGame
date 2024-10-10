@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Feet
+  - Platform
+  - DeadlyPlatform
+  - Dead
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backgorund
+    uniqueID: 2886174547
+    locked: 0
+  - name: Planet
+    uniqueID: 2501456079
+    locked: 0
+  - name: Platform
+    uniqueID: 1891052523
+    locked: 0
+  - name: Gold
+    uniqueID: 1984777383
+    locked: 0
+  - name: Player
+    uniqueID: 513263767
+    locked: 0
+  - name: UI
+    uniqueID: 1864031319
+    locked: 0

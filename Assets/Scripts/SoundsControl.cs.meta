@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5ab30dccf742de54f90f890657480055
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jumping: {instanceID: 0}
+  - gold: {instanceID: 0}
+  - gameOver: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
